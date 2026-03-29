@@ -1,0 +1,2 @@
+# Wire-Bond-Failure-Analysis-in-Semiconductor-Packaging
+This project presents a case study on analyzing an increase in open failures observed in semiconductor backend assembly after the molding process.  The objective is to demonstrate a structured yield engineering approach to identify the failure type, localize the process stage, understand the physical failure mechanism, and determine the root cause.
